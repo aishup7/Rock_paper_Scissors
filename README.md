@@ -3,7 +3,7 @@ This game is also known also Stone paper scissors.Rock paper scissors is a hand 
 These shapes are “rock,” “paper,” and “scissors.”
 In this project, we are demonstrating Rock Paper and Scissor game in Java Programming Language where one player will be Computer and the other player is User.
 
-#Rules of Rock Paper Scissors Game
+# Rules of Rock Paper Scissors Game
 1. The Rock beats the Scissors (rock crushes scissors)
 2. The Scissors beats the Paper (scissors cut paper)
 3. The Paper beats the Rock
@@ -11,7 +11,7 @@ In this project, we are demonstrating Rock Paper and Scissor game in Java Progra
 5. There should be at least 2 players required to play this game.
 We can create a two-player Rock Paper Scissor game in Java using if else condition and Java.util.Random.nextInt() function.
 
-#Pseudo Code for Rock Paper Scissors Java Program
+# Pseudo Code for Rock Paper Scissors Java Program
 1. Prompt Player to enter any one of the following entries: ROCK, PAPER, SCISSORS.
 2. getPlayerMove() method uses Scanner class to get the move of the player. This method will print and return the move enter by the player.
 4. getComputerMove() method uses Random class nextInt(num) method. nextInt(num) method produces the random number between 0 (inclusive) and num (exclusive). getComputerMove() method will print and return the computer move.
