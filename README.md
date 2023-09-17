@@ -17,7 +17,7 @@ We can create a two-player Rock Paper Scissor game in Java using if else conditi
 4. getComputerMove() method uses Random class nextInt(num) method. nextInt(num) method produces the random number between 0 (inclusive) and num (exclusive).
 5. getComputerMove() method will print and return the computer move.
 6. If playerMove and computerMove are the same, then the game is a tie or draw.
-7. Else if playerMove and computerMove are different, then 3 cases are possible.
+7. Else if playerMove and computerMove are different, then 3 cases are possible.<br>
   a. If playerMove is ROCK and computerMove is PAPER then computer wins. If playerMove is ROCK and computerMove is SCISSORS then the player wins.<br>
   b. If playerMove is PAPER and computerMove is SCISSORS then computer wins. If playerMove is PAPER and computerMove is ROCK then the player wins.<br>
   c. If playerMove is SCISSORS andcomputerMove is ROCK then computer wins. If playerMove is SCISSORS and computerMove is PAPER then the player wins.
